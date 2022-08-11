@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project was to learn about how accessibility standards and search engine optimization can be improved through code refactoring. This was done by replacing non-semantic HTML elements with semantic elements, as well as consolidating the CSS selectors and properties. The codebase is now organized in a manner that will be easy for future developers to follow. Over the course of this project, I learned how to consolidate code without majorly impacting the output. 
+The purpose of this project was to learn about how accessibility standards and search engine optimization can be improved through code refactoring. This was done by replacing non-semantic HTML elements with semantic elements, as well as consolidating CSS selectors and properties. The codebase is now organized in a manner that will be easy for future developers to follow. Over the course of this project, I learned how to consolidate code without majorly impacting the output. This project will be continually improved as I learn more skills, including optimizing the viewing experience for any screen width.
 
 ## Usage
 
@@ -20,7 +20,7 @@ The user may also view some of the benefits to utilizing the company's services 
 
 ## Credits
 
-This project was centered around modifying codebase from the urban-octo-telegram repository created by GitHub user coding-bootcamp. [The codebase may be viewed here.](https://github.com/coding-boot-camp/urban-octo-telegram)
+This project was centered around modifying codebase from the urban-octo-telegram repository created by the GitHub user @coding-bootcamp. [The original codebase may be viewed here.](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
 
