@@ -6,7 +6,7 @@ The purpose of this project was to learn about how accessibility standards and s
 
 ## Usage
 
-The webpage may be accessed by visiting the following URL: [https://rpecuch.github.io/bootcamp-challenge-1/](https://rpecuch.github.io/bootcamp-challenge-1/) The webpage content is divided into three sections that are found at the top of the page. 
+The webpage may be accessed by visiting the following URL: [https://rpecuch.github.io/bootcamp-challenge-1/](https://rpecuch.github.io/bootcamp-challenge-1/). The webpage content is divided into three sections that are found at the top of the page. 
 
 ![Top portion of webpage](./assets/images/readme-image-1.png)
 
