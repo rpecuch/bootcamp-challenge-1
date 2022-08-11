@@ -8,12 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Used an element selector here instead of a class selector*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
+
+/*Used an element selector here because there is only one h1*/
 
 h1 {
     display: inline-block;
@@ -23,6 +27,8 @@ h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/*These properties were previously applied to a div non-semantic element but now applied to a ul semenatic element*/
 
 header ul {
     padding-top: 15px;
@@ -47,6 +53,8 @@ p {
     font-size: 16px;
 }
 
+/* These properties were previously applied to a non-semantic div element and now applied to an id selector of a semantic img element */
+
 #main-image {
     height: 800px;
     width: 100%;
@@ -61,6 +69,8 @@ p {
     margin-left: 20px;
 }
 
+/* Consolidation. Previously these properties were written out separately for each of the separate sections within the class of content */
+
 .content-type {
     margin-bottom: 20px;
     padding: 50px;
@@ -70,11 +80,16 @@ p {
     color: #ffffff;
 }
 
+/* Consolidation. Previously the max-height property was written out separately for each of the separate images within the class of content */
+/* Positioning property added to re-position images that were moved when I altered some of the html elements*/
+
 .content img {
     max-height: 200px;
     position: relative;
     bottom: 60px;
 }
+
+/* Consolidation. Previously these properties were written out separately for each of the separate headers within the class of content */
 
 .content h2 {
     margin-bottom: 20px;
@@ -91,6 +106,8 @@ p {
     margin-left: 25px;
 } 
 
+/* This was added to re-position a header that shifted when I altered some of the html elements */
+
 .right-header {
     text-align: right;
 }
@@ -106,15 +123,21 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidation. Previously these properties were written out separately for each of the separate sections within the class of benefits */
+
 .benefit-type {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Consolidation. Previously these properties were written out separately for each of the headers within the class of benefits */
+
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Consolidation. Previously these properties were written out separately for each of the separate images within the class of benefits */
 
 .benefits img {
     display: block;
